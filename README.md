@@ -2,78 +2,95 @@
 
 Welcome to my GitHub portfolio!
 
-I focus on transforming data into meaningful insights through data analysis, business intelligence, and machine learning.
+I am a Data Scientist graduate with hands-on experience in data analysis, business intelligence, and data automation.
 
-My projects demonstrate practical skills in Python, SQL, Power BI, data visualization, and analytical problem-solving.
+I work with Python, SQL, Google BigQuery, Power BI, and Looker Studio to transform raw data into meaningful insights and support data-driven decision-making.
 
-## Technical Skills
+This portfolio showcases my practical projects in data analytics, business intelligence, and machine learning.
 
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA)
-- **Data Visualization:** Power BI, Matplotlib
-- **Business Intelligence:** Dashboard Development, KPI Analysis
-- **Tools:** Git, GitHub, Jupyter Notebook
+---
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-### 1. Supermart Sales Analysis
-**Python | Pandas | Power BI | Data Visualization**
+| Category | Technologies |
+|---|---|
+| **Programming** | Python, SQL, R |
+| **Data Analysis** | Pandas, NumPy, Exploratory Data Analysis (EDA) |
+| **Business Intelligence** | Power BI, Looker Studio, Tableau |
+| **Databases & Cloud** | Google BigQuery, Google Cloud, PostgreSQL, MySQL |
+| **Data Integration** | API Integration, Data Automation |
+| **Machine Learning** | Scikit-learn, TensorFlow, Keras |
+| **Tools** | Git, GitHub, Jupyter Notebook, Matplotlib |
+
+---
+
+## 📂 Featured Projects
+
+### 📊 1. Supermart Sales Analysis
+
+**Python | Pandas | Power BI | Business Intelligence**
 
 An end-to-end sales analysis project focused on identifying sales trends, profitability, customer behavior, and regional performance.
 
-**Highlights:**
-- Analyzed 9,994 sales records.
-- Explored sales and profit performance.
-- Built visualizations and business intelligence dashboards.
-- Identified opportunities for data-driven decision-making.
+**Project Highlights:**
+- Analyzed 9,994 sales records using Python and Pandas.
+- Performed data cleaning and exploratory data analysis.
+- Investigated sales performance, profit margins, and regional trends.
+- Created data visualizations and Power BI dashboards to communicate business insights.
 
-### 2. Telecom Customer Analysis
+**[🔗 View Supermart Sales Analysis](https://github.com/Turzo-k11/Sales-analys)**
+
+---
+
+### 📱 2. Telecom Customer Analysis
+
 **Python | Data Science | Customer Analytics**
 
-A telecom-focused analytics project exploring customer information, business performance, and potential applications of predictive analytics.
+A telecom-focused analytics project exploring customer behavior, business performance, and potential applications of predictive analytics.
 
-### 3. Data Science Projects
+**Project Focus:**
+- Customer behavior and telecom analytics.
+- Exploring customer-related business data.
+- Investigating opportunities for data-driven decision-making.
+
+**[🔗 View Telecom Project](https://github.com/Turzo-k11/Telecom)**
+
+---
+
+### 🤖 3. Data Science Projects
+
 **Python | Data Analysis | Statistical Methods**
 
-A collection of projects demonstrating data exploration, data preparation, and analytical approaches.
+A collection of data science projects focused on data exploration, preparation, and analytical problem-solving.
 
-### 4. AdventureWorks Analysis
+**Project Focus:**
+- Exploratory Data Analysis (EDA).
+- Data preparation and analytical methods.
+- Practical applications of Python for data analysis.
+
+**[🔗 View Data Science Projects](https://github.com/Turzo-k11/Data-science)**
+
+---
+
+### 📈 4. AdventureWorks Analysis
+
 **Jupyter Notebook | Data Analytics**
 
-An analytics project using AdventureWorks data to demonstrate analytical thinking and data exploration.
+A data analysis project using the AdventureWorks dataset to explore business data and develop analytical insights.
 
-## Career Interests
+**Project Focus:**
+- Exploring and analyzing business datasets.
+- Applying analytical methods to structured data.
+- Communicating insights through data analysis.
 
-I am interested in opportunities involving:
+**[🔗 View AdventureWorks Project](https://github.com/Turzo-k11/AdventureWorks)**
 
-- Data Analyst
-- Business Intelligence Analyst / BI Developer
-- Junior Data Scientist
+---
 
-## Project Repositories
+## 📬 Connect
 
-Explore my GitHub repositories to view project files, analysis, and documentation.
+**GitHub:** [Turzo-k11](https://github.com/Turzo-k11)
 
+**Email:** [turzokhan13@gmail.com](mailto:turzokhan13@gmail.com)
 
-## My Data Analytics Projects
-
-### 📊 Sales Analysis
-Sales analysis using Python, Pandas and Power BI.
-
-[View Sales Analysis Project](https://github.com/Turzo-k11/Sales-analys)
-
-### 📱 Telecom
-Telecom analytics and data science project.
-
-[View Telecom Project](https://github.com/Turzo-k11/Telecom)
-
-### 🤖 Data Science
-Collection of data science projects using Python.
-
-[View Data Science Projects](https://github.com/Turzo-k11/Data-science)
-
-### 📈 AdventureWorks
-Data analysis project using the AdventureWorks dataset.
-
-[View AdventureWorks Project](https://github.com/Turzo-k11/AdventureWorks)
-
+*Open to opportunities in Data Analytics, Business Intelligence, and Data Science.*
