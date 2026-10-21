@@ -85,12 +85,4 @@ A data analysis project using the AdventureWorks dataset to explore business dat
 
 **[🔗 View AdventureWorks Project](https://github.com/Turzo-k11/AdventureWorks)**
 
----
-
-## 📬 Connect
-
-**GitHub:** [Turzo-k11](https://github.com/Turzo-k11)
-
-**Email:** [turzokhan13@gmail.com](mailto:turzokhan13@gmail.com)
-
 *Open to opportunities in Data Analytics, Business Intelligence, and Data Science.*
