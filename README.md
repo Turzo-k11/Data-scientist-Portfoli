@@ -1,5 +1,3 @@
-# Data-scientist-Portfoli
-
 # Data Analytics & Data Science Portfolio
 
 Welcome to my GitHub portfolio!
