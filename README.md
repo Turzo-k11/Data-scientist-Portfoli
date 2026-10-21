@@ -54,4 +54,26 @@ I am interested in opportunities involving:
 
 Explore my GitHub repositories to view project files, analysis, and documentation.
 
-*Project links and additional case studies will be added as the portfolio develops.*
+
+## My Data Analytics Projects
+
+### 📊 Sales Analysis
+Sales analysis using Python, Pandas and Power BI.
+
+[View Sales Analysis Project](https://github.com/Turzo-k11/Sales-analys)
+
+### 📱 Telecom
+Telecom analytics and data science project.
+
+[View Telecom Project](https://github.com/Turzo-k11/Telecom)
+
+### 🤖 Data Science
+Collection of data science projects using Python.
+
+[View Data Science Projects](https://github.com/Turzo-k11/Data-science)
+
+### 📈 AdventureWorks
+Data analysis project using the AdventureWorks dataset.
+
+[View AdventureWorks Project](https://github.com/Turzo-k11/AdventureWorks)
+
