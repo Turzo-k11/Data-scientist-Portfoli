@@ -84,5 +84,3 @@ A data analysis project using the AdventureWorks dataset to explore business dat
 - Communicating insights through data analysis.
 
 **[🔗 View AdventureWorks Project](https://github.com/Turzo-k11/AdventureWorks)**
-
-*Open to opportunities in Data Analytics, Business Intelligence, and Data Science.*
